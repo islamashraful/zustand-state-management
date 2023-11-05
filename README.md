@@ -23,6 +23,9 @@ Zustand is a small, fast, and self-contained state management library for React 
 
 ## Getting Started
 
+This project is already available on CodeSandBox. So, you don't need to run this on local to check. [Here](https://codesandbox.io/s/zustand-state-management-zqxlgd) is the project. 
+
+
 To run this project on your local machine, follow these steps:
 
 1. Clone this repository:
